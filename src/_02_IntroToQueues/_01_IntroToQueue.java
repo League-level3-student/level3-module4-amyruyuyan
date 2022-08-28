@@ -77,7 +77,7 @@ public class _01_IntroToQueue {
 			removed.push(deque.remove());
 			}
 			}
-			System.out.println("removing " + rand + "elements from queue, updated queue: " + removed);
+			System.out.println("removing " + rand + " elements from queue, updated queue: " + removed);
 
 			// 6. Pop off as many elements from the stack to fill the Queue with 5
 			// elements. If there aren't enough elements in the Stack to fill the
